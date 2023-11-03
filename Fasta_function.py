@@ -8,4 +8,4 @@ def Fasta_rem(Fasta_input):
             DNAseq = ''.join(a[1:])
             seq_list.append(DNAseq)
             
-    return(seq_list)
+    return seq_list
